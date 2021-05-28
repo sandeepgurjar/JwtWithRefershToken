@@ -1,0 +1,117 @@
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\AmsCeApi.exe
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.csprojAssemblyReference.cache
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.AssemblyInfoInputs.cache
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.AssemblyInfo.cs
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.RazorTargetAssemblyInfo.cache
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\staticwebassets\AmsCeApi.StaticWebAssets.Manifest.cache
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\staticwebassets\AmsCeApi.StaticWebAssets.xml
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\AmsCeApi.deps.json
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\AmsCeApi.runtimeconfig.json
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\AmsCeApi.runtimeconfig.dev.json
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\AmsCeApi.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\AmsCeApi.pdb
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.csproj.CopyComplete
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.pdb
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.genruntimeconfig.cache
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\D drive data\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\AmsCeApi.exe
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\AmsCeApi.deps.json
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\AmsCeApi.runtimeconfig.json
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\AmsCeApi.runtimeconfig.dev.json
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\AmsCeApi.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\AmsCeApi.pdb
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\staticwebassets\AmsCeApi.StaticWebAssets.Manifest.cache
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\staticwebassets\AmsCeApi.StaticWebAssets.xml
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.AssemblyInfoInputs.cache
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.AssemblyInfo.cs
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.RazorTargetAssemblyInfo.cache
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.csproj.CopyComplete
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.dll
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.pdb
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.csproj.AssemblyReference.cache
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.csproj.CoreCompileInputs.cache
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\AmsCeApi.styles.css
+C:\BackupDdrive\Sandeep\TestingProject2\AmsCeApi\AmsCeApi\obj\Debug\netcoreapp3.1\AmsCeApi.genruntimeconfig.cache
